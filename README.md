@@ -1,4 +1,4 @@
-HTML Email Sender with Embedded Image Using Outlook
+# HTML Email Sender with Embedded Image Using Outlook
 Overview
 
 This Python script automates sending an HTML email with an embedded image via Microsoft Outlook. The email is composed using a specified subject, body content, and an image, which is encoded in Base64 and embedded directly in the email body. The email is then sent using the win32com library for Outlook automation.
